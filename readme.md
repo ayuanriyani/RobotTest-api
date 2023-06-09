@@ -1,4 +1,4 @@
-# robot-framework
+# robot-framework-api
 
 Quick Start
 ===========
@@ -11,10 +11,6 @@ Quick Start
 
     robot --outputdir report/api/ testcase/api
 
-### Run the tests for Mobile
-
-    robot --outputdir report/api/ testcase/mobile
-
 ### NOTE
 For perform API testing in Robot Framework. please prepare 5 libraries for our tests. They are:
 1. SeleniumLibrary  which is already installed.
@@ -23,8 +19,8 @@ For perform API testing in Robot Framework. please prepare 5 libraries for our t
 4. Collections – This comes inbuilt with robot Framework. We just need to import it.
 5. BuiltIn – Robot Framework’s standard library that provides a set of generic keywords. No need to import as it is always available.
 
-or Please Recommandation for installed
-======================================
+### Please See Recommandation for installed
+
     https://robotframework.org/
 
 
