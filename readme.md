@@ -5,7 +5,7 @@ Quick Start
 
 ### Clone this repository
 
-    git clone https://github.com/ayuanriyani/RobotTest-api.git]
+    git clone https://github.com/ayuanriyani/RobotTest-api.git
 ### Run the tests for API
 
     robot --outputdir report/api/ testcase/api
